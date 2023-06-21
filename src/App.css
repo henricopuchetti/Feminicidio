@@ -1,0 +1,38 @@
+body{
+  overflow-x: hidden;
+}
+
+
+.card {
+  border: none!important;
+}
+
+.txt-carrossel {
+  font-size: 30px;
+}
+
+.h1-carrossel{
+  font-size: 50px;
+}
+
+.titulo{
+  color: #AF0000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3{
+  font-size: 22px;
+  width: 100%;
+  padding: 100px;
+}
+
+.home{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
